@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Clouds404
 - 👀 I’m interested in python, discord bot and game devlopment
-- 🌱 I’m currently learning "how to be a data scientist"
 - 📫 Reach me on discord Cloudsツ#4097
 
 <!---
